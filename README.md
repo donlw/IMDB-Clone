@@ -33,5 +33,3 @@ This project focuses on clean UI, reusable components, and API-driven content.
 - Git & GitHub
 
 
-## 📁 Project Structure
-
